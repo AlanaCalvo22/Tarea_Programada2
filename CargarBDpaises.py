@@ -9,10 +9,10 @@ def cargarBDpaíses(regionPais):
             paises=pai.split(",")
             dicc[region[0]]=paises
         archiRePa.close()
-    
     except:
         print("No pudo abrir regionPais")
+    print(dicc)
     return(dicc)
     
-print(cargarBDpaíses("regionPais.txt"))
+#print(cargarBDpaíses("regionPais.txt"))
 

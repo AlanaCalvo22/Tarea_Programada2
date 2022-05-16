@@ -1,8 +1,0 @@
-AN: Canada, Estados Unidos, Mexico
-AC: Belice, Costa Rica, El Salvador, Guatemala, Honduras, Nicaragua, Panama
-AS: Colombia, Venezuela, Guyana, Surinam, Ecuador, Peru, Brasil, Bolivia, Paraguay, Chile, Uruguay, Argentina
-EC: Alemania,Albania,Austria, Andorra,  Azerbaiyan, Belgica, Bielorrusia, Bosnia y Herzegovina, Bulgaria, Chipre, Croacia, Dinarmaca, España, Estonia, Finlandia, Francia, Grecia,Hungria, Irlanda, Islandia, Italia,Irlanda, Irlanda, Letonia, Liechtenstein, Lituania, Luxemburgo, Macedonia del Norte, Malta, Moldavia, Monaco, Montenegro, Noruega, Paises Bajos, Polonia, Portugal, Reino Unido, Rumania, Rusia, Serbia, Suecia, Suiza
-Af: Angola, Argelia, Benin, Botsuana, Burkina Faso, Burundi,Cabo Verde, Camerun, Republica Centroafricana, Costa de Marfil, Egipto, Eritrea, Etiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bisau, Guinea Ecuatorial, Kenia, Lesoto, Liberia, Libia, Madagascar
-Malaui, Mali, Marruecos, Mauricio, Mauritania, Mozambique, Namibia, Niger, Nigeria, Ruanda, Senegal, Seychelles, Sierra Leona, Somalia, Suazilandia, Sudafrica, Sudan, Sudan del Sur, Tanzania, Togo, Tunez, Uganda, Yibuti, Zambia, Zimbabue
-A: Afganistan, Arabia Saudita, Armenia, Azerbaiyan, Banglades, Barein, Birmania, Brunei, Butan, Catar, China, Corea del Norte, Corea del Sur, Emiratos Arabes Unidos, Filipinas, Georgia, India, Indones, Irak, Iran,Israel, Japon, Jordania, Kazajistan, Kirguistán, Kuwait, Laos, Líbano, Malasia, Maldivas, Mongolia, Nepal, Oman, Pakistan, Rusia, Singapur, Siria, Sri Lanka, Tayikistan, Timor Oriental, Turkmenistan, Turquia, Uzbekistán, Vietnam, Yemen
-O: Australia, Fiyi, Kiribari, Islas Marshall, Micronesia, Nauru, Nuevo Zelanda, Palaos, Papua Nueva Guinea, Islas Salomon, Samoa, Tonga, Tuvalu, Vanuatu
