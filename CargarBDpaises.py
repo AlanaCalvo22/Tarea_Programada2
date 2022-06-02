@@ -14,5 +14,5 @@ def cargarBDpaíses(regionPais):
     print(dicc)
     return(dicc)
     
-#print(cargarBDpaíses("regionPais.txt"))
+print(cargarBDpaíses("regionPais1.txt"))
 

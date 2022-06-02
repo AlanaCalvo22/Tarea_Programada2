@@ -1,7 +1,7 @@
 #from this import s
 from tkinter import *
 from CargarBDpaises import *
-#from adopcion import *
+from adopcion import *
 
 
 class VentanaPrincipal:
